@@ -1,3 +1,6 @@
-# dic
-Dependency Injection Container
+# Dependency Injection Container
+
+## Installation
+```bash
 composer require nparfenon/dic
+```
