@@ -1,0 +1,17 @@
+{
+    "name": "nparfenon/dic",
+    "autoload": {
+        "psr-4": {
+            "nParfenon\\dic\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nParfenon",
+            "email": "nikita.parfenov.work@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    }
+}
